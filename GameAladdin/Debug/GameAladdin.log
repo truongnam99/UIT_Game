@@ -1,0 +1,4 @@
+﻿  Aladdin.cpp
+d:\learning\third year\game\doan\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\learning\third year\game\doan\gamealaddin\aladdin.cpp(585): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameAladdin.vcxproj -> D:\LEARNING\THIRD YEAR\GAME\DoAN\Debug\GameAladdin.exe

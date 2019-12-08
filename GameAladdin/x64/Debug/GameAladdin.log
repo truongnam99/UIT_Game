@@ -1,0 +1,36 @@
+﻿  Aladdin.cpp
+  AladdinMove.cpp
+  AladdinStay.cpp
+  AladdinStay1.cpp
+  Animation.cpp
+  Camera.cpp
+  Cell.cpp
+  Game.cpp
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\game.cpp(88): error C2065: 'GWL_HINSTANCE': undeclared identifier
+  GameObject.cpp
+  Grid.cpp
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\grid.cpp(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\grid.cpp(27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\grid.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\main.cpp(80): error C2440: '=': cannot convert from 'const wchar_t [8]' to 'LPCSTR'
+  c:\users\zbook\source\repos\gamealaddin\gamealaddin\main.cpp(80): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\main.cpp(86): error C2664: 'HWND CreateWindowExA(DWORD,LPCSTR,LPCSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 2 from 'const wchar_t [8]' to 'LPCSTR'
+  c:\users\zbook\source\repos\gamealaddin\gamealaddin\main.cpp(97): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Map.cpp
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\map.cpp(43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\map.cpp(44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\map.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\map.cpp(57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+  SceneGame.cpp
+  SceneManager.cpp
+  Sprite.cpp
+  Textures.cpp
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\textures.cpp(20): error C2664: 'HRESULT D3DXGetImageInfoFromFileA(LPCSTR,D3DXIMAGE_INFO *)': cannot convert argument 1 from 'LPCWSTR' to 'LPCSTR'
+  c:\users\zbook\source\repos\gamealaddin\gamealaddin\textures.cpp(20): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\textures.cpp(30): error C2664: 'HRESULT D3DXCreateTextureFromFileExA(LPDIRECT3DDEVICE9,LPCSTR,UINT,UINT,UINT,DWORD,D3DFORMAT,D3DPOOL,DWORD,DWORD,D3DCOLOR,D3DXIMAGE_INFO *,PALETTEENTRY *,LPDIRECT3DTEXTURE9 *)': cannot convert argument 2 from 'LPCWSTR' to 'LPCSTR'
+  c:\users\zbook\source\repos\gamealaddin\gamealaddin\textures.cpp(44): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\zbook\source\repos\gamealaddin\gamealaddin\textures.cpp(48): error C2664: 'void OutputDebugStringA(LPCSTR)': cannot convert argument 1 from 'const wchar_t [38]' to 'LPCSTR'
+  c:\users\zbook\source\repos\gamealaddin\gamealaddin\textures.cpp(48): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Generating Code...

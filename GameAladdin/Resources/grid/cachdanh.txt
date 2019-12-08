@@ -1,0 +1,3 @@
+hàng 1: số col, số row, cell width, cell height
+col*row hàng tiếp theo: idCell, left, top
+những hàng còn lại là thông tin object trong các cell: idCell, type, x, y, width, height

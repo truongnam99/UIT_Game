@@ -1,0 +1,7 @@
+aladdin 100
+ani1 101
+ani2 102
+ani3 103
+sprite11 10101
+sprite12 10102
+sprite21 10201

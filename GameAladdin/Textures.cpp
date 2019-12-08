@@ -64,6 +64,10 @@ void Textures::LoadResources()
 	Add(ID_TEX_ALADDIN, (wchar_t*)L"Resources\\textures\\aladdinfull.png", D3DCOLOR_XRGB(106, 148, 189));
 	//ENEMY
 	Add(ID_TEX_ENEMY, (wchar_t*)L"Resources\\textures\\enemy.png", D3DCOLOR_XRGB(120, 193, 152));
+	Add(ID_TEX_ENEMY_SKELETON, (wchar_t*)L"Resources\\textures\\enemyskeleton.png", D3DCOLOR_XRGB(255, 0, 255));
+	Add(ID_TEX_ENEMY_BAT, (wchar_t*)L"Resources\\textures\\enemybat.png", D3DCOLOR_XRGB(255, 0, 255));
+	Add(ID_TEX_ENEMY_BOSS, (wchar_t*)L"Resources\\textures\\enemyboss.png", D3DCOLOR_XRGB(186, 254, 202));
+
 	Add(ID_TEX_BBOX, (wchar_t*)L"Resources\\textures\\bbox.png", D3DCOLOR_XRGB(255, 255, 255));
 }
 

@@ -43,6 +43,9 @@
 #define GRID_CELL_HEIGHT 280
 #define ID_TEX_ALADDIN 1021
 #define ID_TEX_ENEMY 1022
+#define ID_TEX_ENEMY_SKELETON 1023
+#define ID_TEX_ENEMY_BAT 1024
+#define ID_TEX_ENEMY_BOSS 1025
 
 //object type
 enum oType

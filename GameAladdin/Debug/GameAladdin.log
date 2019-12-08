@@ -1,4 +1,38 @@
 ﻿  Aladdin.cpp
-d:\learning\third year\game\doan\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\learning\third year\game\doan\gamealaddin\aladdin.cpp(585): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  GameAladdin.vcxproj -> D:\LEARNING\THIRD YEAR\GAME\DoAN\Debug\GameAladdin.exe
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\aladdin.cpp(585): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Animations.cpp
+  Apple.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Brick.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Camera.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\camera.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\camera.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\camera.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Cell.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Debug.cpp
+  Game.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\game.cpp(257): warning C4305: '=': truncation from '__int64' to 'float'
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\game.cpp(258): warning C4305: '=': truncation from '__int64' to 'float'
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\game.cpp(268): warning C4305: '=': truncation from '__int64' to 'float'
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\game.cpp(269): warning C4305: '=': truncation from '__int64' to 'float'
+  GameObject.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Grid.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\grid.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\grid.cpp(57): warning C4101: 'obj': unreferenced local variable
+  Main.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Map.cpp
+  SceneGame.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\gameobject.h(60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\scenegame.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  SceneManager.cpp
+  Sprites.cpp
+d:\nhập môn phát triển game\doangame\uit_game\gamealaddin\sprites.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  Textures.cpp
+  Generating Code...
+  GameAladdin.vcxproj -> D:\nhập môn phát triển game\DoAnGame\UIT_Game\Debug\GameAladdin.exe

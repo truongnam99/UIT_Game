@@ -31,6 +31,9 @@
     <Filter Include="GameObjects\Aladdin">
       <UniqueIdentifier>{e925816a-8574-4c8f-8cc9-7075b0f3c9fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="GameObjects\Enemy">
+      <UniqueIdentifier>{f82b3537-6791-4520-a550-2e42fc96cb17}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -80,6 +83,9 @@
     </ClCompile>
     <ClCompile Include="Apple.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>GameObjects\Enemy</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -133,6 +139,9 @@
     </ClInclude>
     <ClInclude Include="Apple.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>GameObjects\Enemy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -87,6 +87,15 @@
     <ClCompile Include="Enemy.cpp">
       <Filter>GameObjects\Enemy</Filter>
     </ClCompile>
+    <ClCompile Include="EnemySkeleton.cpp">
+      <Filter>GameObjects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBat.cpp">
+      <Filter>GameObjects\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBoss.cpp">
+      <Filter>GameObjects\Enemy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -141,6 +150,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Enemy.h">
+      <Filter>GameObjects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemySkeleton.h">
+      <Filter>GameObjects\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBat.h">
       <Filter>GameObjects\Enemy</Filter>
     </ClInclude>
   </ItemGroup>
